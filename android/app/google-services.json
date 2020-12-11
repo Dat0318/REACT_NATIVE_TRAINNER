@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911246398632",
+    "firebase_url": "https://reactnativetrainner.firebaseio.com",
+    "project_id": "reactnativetrainner",
+    "storage_bucket": "reactnativetrainner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911246398632:android:18c619fc4ee60aaa789e9d",
+        "android_client_info": {
+          "package_name": "com.react_native_trainner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911246398632-6g79lbk428n2c1va8siio02oo3ralbdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPh77tI_MCU-n5_3khPEZPX8XN1Qg9V2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911246398632-6g79lbk428n2c1va8siio02oo3ralbdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
